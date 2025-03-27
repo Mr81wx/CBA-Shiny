@@ -1,0 +1,12 @@
+name: CBA_player
+title: CBA_player
+username:
+account: bsuwangxing
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3871660
+bundleId: 4442548
+url: https://bsuwangxing.shinyapps.io/CBA_player/
+when: 1617809352.47437
+asMultiple: FALSE
+asStatic: FALSE
